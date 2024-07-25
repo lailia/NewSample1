@@ -92,5 +92,5 @@ public class ChatClient {
 		}
 		System.out.println("[클라이언트] 종료");
 	}
-	//새로운 수정
+	//새로운 수정2
 }
